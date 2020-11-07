@@ -6,6 +6,7 @@
     {"id":{"name":"fireball_sprite","path":"sprites/fireball_sprite/fireball_sprite.yy",},"order":1,},
     {"id":{"name":"test","path":"sprites/test/test.yy",},"order":6,},
     {"id":{"name":"bullet","path":"objects/bullet/bullet.yy",},"order":1,},
+    {"id":{"name":"walker","path":"objects/walker/walker.yy",},"order":2,},
     {"id":{"name":"bullet_sprite","path":"sprites/bullet_sprite/bullet_sprite.yy",},"order":7,},
     {"id":{"name":"aiming_reticle_sprite","path":"sprites/aiming_reticle_sprite/aiming_reticle_sprite.yy",},"order":4,},
     {"id":{"name":"dungeon","path":"tilesets/dungeon/dungeon.yy",},"order":2,},

@@ -28,7 +28,7 @@ direction = point_direction(x, y, mouse_x, mouse_y);
 if mouse_check_button(mb_left) and cooldown < 1
 {
 	instance_create_layer(x, y, "Bullets", bullet);
-	speed = -10
+	speed = -5
 	cooldown = 10;
 }
 
