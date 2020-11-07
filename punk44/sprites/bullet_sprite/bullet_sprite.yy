@@ -1,4 +1,5 @@
 {
+
   "bboxMode": 2,
   "collisionKind": 1,
   "type": 0,
