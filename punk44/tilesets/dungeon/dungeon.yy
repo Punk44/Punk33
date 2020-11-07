@@ -1,5 +1,4 @@
 {
-  "name": "dungeon",
   "spriteId": null,
   "tileWidth": 16,
   "tileHeight": 16,
@@ -50,6 +49,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
+  "name": "dungeon",
   "tags": [],
   "resourceType": "GMTileSet",
 }
