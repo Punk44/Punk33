@@ -33,6 +33,7 @@
     {"id":{"name":"aiming_reticle_sprite","path":"sprites/aiming_reticle_sprite/aiming_reticle_sprite.yy",},"order":3,},
     {"id":{"name":"bg_dungeon","path":"sprites/bg_dungeon/bg_dungeon.yy",},"order":2,},
     {"id":{"name":"grit","path":"sounds/grit/grit.yy",},"order":0,},
+    {"id":{"name":"e_ammo_pickup","path":"sounds/e_ammo_pickup/e_ammo_pickup.yy",},"order":4,},
     {"id":{"name":"spr_Empty","path":"sprites/spr_Empty/spr_Empty.yy",},"order":11,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
