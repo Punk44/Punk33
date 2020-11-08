@@ -1,9 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-with(other){
-	hp -= 1;
-	
+if (image_alpha > 0){
+	image_alpha -= .1;
+} else{
+	instance_destroy();
 }
-
-mask_index = -1
