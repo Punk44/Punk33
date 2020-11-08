@@ -3,6 +3,8 @@
 
 with(other){
 	hp -= 1;
+	alarm[0] = 10;
+	spd = 0.5;
 	
 }
 
