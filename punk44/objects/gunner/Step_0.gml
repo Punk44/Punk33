@@ -12,7 +12,8 @@ if gun_cooldown < 1{
 image_angle = point_direction(x, y, player.x, player.y);
 
 
-if hp <= 0 instance_destroy();
-
+if hp <= 0 {
+	instance_destroy();
+}
 gun_cooldown -= 1
 touch_cooldown -= 1
