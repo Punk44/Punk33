@@ -1,9 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
+window_set_cursor(cr_none);
+alarm[0] = 10
 
-with(other){
-	hp -= 1;
-	
-}
-
-mask_index = -1
