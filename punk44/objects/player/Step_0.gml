@@ -56,7 +56,7 @@ if (fire)
 
 }
 // reloading the gun
-if (global.reload = false) && keyboard_check(ord("R")){
+if (global.reload = false) && keyboard_check(ord("R")) && global.ammo != 20{
 	canshoot = false;
 	global.reload = true;
 	alarm[1] = 50;
