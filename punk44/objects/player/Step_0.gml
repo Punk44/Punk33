@@ -29,6 +29,10 @@ if keyboard_check(ord("S")) and place_free(x, y + collision_speed)
 //shooting
 if (fire)
 {
+	if place_free(x, y){
+		speed = -5;
+	}
+	
 	alarm[0] = shot_delay
 	var temp_dir = direction+random_range(-2, 2);
 	var temp_x =  x+lengthdir_x(48, temp_dir);
@@ -45,7 +49,6 @@ if (fire)
 	var shot = instance_create_layer(temp_x, temp_y, "Bullets", bullet);
 	shot.start_x = start_x;
 	shot.start_y = start_y;
-	speed = -5
 	
 }
 
