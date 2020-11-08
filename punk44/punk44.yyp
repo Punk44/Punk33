@@ -2,9 +2,11 @@
   "resources": [
     {"id":{"name":"player","path":"objects/player/player.yy",},"order":0,},
     {"id":{"name":"walker_sprite","path":"sprites/walker_sprite/walker_sprite.yy",},"order":0,},
-    {"id":{"name":"Music","path":"objects/Music/Music.yy",},"order":8,},
+    {"id":{"name":"Sound","path":"objects/Sound/Sound.yy",},"order":8,},
+    {"id":{"name":"e_reload","path":"sounds/e_reload/e_reload.yy",},"order":1,},
     {"id":{"name":"background","path":"tilesets/background/background.yy",},"order":0,},
     {"id":{"name":"draw_text_outlined","path":"scripts/draw_text_outlined/draw_text_outlined.yy",},"order":0,},
+    {"id":{"name":"e_gun_shot","path":"sounds/e_gun_shot/e_gun_shot.yy",},"order":2,},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":8,},
     {"id":{"name":"player_sprite","path":"sprites/player_sprite/player_sprite.yy",},"order":4,},
     {"id":{"name":"fireball_sprite","path":"sprites/fireball_sprite/fireball_sprite.yy",},"order":1,},

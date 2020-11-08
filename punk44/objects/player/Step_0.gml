@@ -36,6 +36,7 @@ if (fire)
 	alarm[0] = shot_delay
 	alarm[2] = 10
 	walk_speed = 2
+	audio_play_sound(e_gun_shot, 5, false);
 	var temp_dir = direction+random_range(-2, 2);
 	var temp_x =  x+lengthdir_x(48, temp_dir);
 	var temp_y =  y+lengthdir_y(48, temp_dir);
