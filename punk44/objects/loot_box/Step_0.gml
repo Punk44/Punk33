@@ -1,6 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-hp = 5;
-spd = 0.5;
-gun_cooldown = 75;
-touch_cooldown = 40;
+alarm[0] = 50 + random(100)
