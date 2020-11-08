@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"player","path":"objects/player/player.yy",},"order":0,},
+    {"id":{"name":"total_ammo_counter","path":"objects/total_ammo_counter/total_ammo_counter.yy",},"order":10,},
     {"id":{"name":"walker_sprite","path":"sprites/walker_sprite/walker_sprite.yy",},"order":0,},
     {"id":{"name":"Sound","path":"objects/Sound/Sound.yy",},"order":8,},
     {"id":{"name":"e_reload","path":"sounds/e_reload/e_reload.yy",},"order":1,},
@@ -15,9 +16,12 @@
     {"id":{"name":"enemy_bullet_sprite","path":"sprites/enemy_bullet_sprite/enemy_bullet_sprite.yy",},"order":6,},
     {"id":{"name":"gunner_sprite","path":"sprites/gunner_sprite/gunner_sprite.yy",},"order":7,},
     {"id":{"name":"aiming_reticle_sprite_reload","path":"sprites/aiming_reticle_sprite_reload/aiming_reticle_sprite_reload.yy",},"order":12,},
+    {"id":{"name":"loot_box","path":"objects/loot_box/loot_box.yy",},"order":9,},
+    {"id":{"name":"total_ammo_font","path":"fonts/total_ammo_font/total_ammo_font.yy",},"order":1,},
     {"id":{"name":"bullet","path":"objects/bullet/bullet.yy",},"order":1,},
     {"id":{"name":"ammo_counter_font","path":"fonts/ammo_counter_font/ammo_counter_font.yy",},"order":0,},
     {"id":{"name":"obj_mouse","path":"objects/obj_mouse/obj_mouse.yy",},"order":7,},
+    {"id":{"name":"loot_box_sprite","path":"sprites/loot_box_sprite/loot_box_sprite.yy",},"order":14,},
     {"id":{"name":"walker","path":"objects/walker/walker.yy",},"order":2,},
     {"id":{"name":"Object6","path":"objects/Object6/Object6.yy",},"order":5,},
     {"id":{"name":"gunner","path":"objects/gunner/gunner.yy",},"order":3,},

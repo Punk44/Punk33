@@ -3,6 +3,7 @@
 image_angle = point_direction(x, y, mouse_x, mouse_y);
 direction = point_direction(x, y, mouse_x, mouse_y);
 fire = (mouse_check_button(mb_left) && alarm[0] <= 0 && global.ammo > 0 && canshoot = true)
+// movement
 if keyboard_check(ord("A")) and place_free(x - collision_speed, y)
     {
     x -= walk_speed;
@@ -24,7 +25,6 @@ if keyboard_check(ord("S")) and place_free(x, y + collision_speed)
     y += walk_speed;
 	}
 	
-
 
 //shooting
 if (fire)
@@ -55,7 +55,7 @@ if (fire)
 	global.ammo -= 1
 
 }
-
+// reloading the gun
 if (global.reload = false) && keyboard_check(ord("R")){
 	canshoot = false;
 	global.reload = true;
