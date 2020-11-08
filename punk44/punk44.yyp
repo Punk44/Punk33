@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"health_bar_border_sprite","path":"sprites/health_bar_border_sprite/health_bar_border_sprite.yy",},"order":17,},
+    {"id":{"name":"health_bar_bg_sprite","path":"sprites/health_bar_bg_sprite/health_bar_bg_sprite.yy",},"order":18,},
     {"id":{"name":"player","path":"objects/player/player.yy",},"order":0,},
     {"id":{"name":"total_ammo_counter","path":"objects/total_ammo_counter/total_ammo_counter.yy",},"order":10,},
     {"id":{"name":"walker_sprite","path":"sprites/walker_sprite/walker_sprite.yy",},"order":0,},
@@ -31,6 +33,7 @@
     {"id":{"name":"gunner","path":"objects/gunner/gunner.yy",},"order":3,},
     {"id":{"name":"next_room_sprite","path":"sprites/next_room_sprite/next_room_sprite.yy",},"order":13,},
     {"id":{"name":"bullet_sprite","path":"sprites/bullet_sprite/bullet_sprite.yy",},"order":5,},
+    {"id":{"name":"health_bar_sprite","path":"sprites/health_bar_sprite/health_bar_sprite.yy",},"order":16,},
     {"id":{"name":"enemy_bullet","path":"objects/enemy_bullet/enemy_bullet.yy",},"order":4,},
     {"id":{"name":"aiming_reticle_sprite","path":"sprites/aiming_reticle_sprite/aiming_reticle_sprite.yy",},"order":3,},
     {"id":{"name":"bg_dungeon","path":"sprites/bg_dungeon/bg_dungeon.yy",},"order":2,},
