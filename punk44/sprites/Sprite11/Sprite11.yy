@@ -1,8 +1,8 @@
 {
   "bboxMode": 2,
-  "collisionKind": 2,
+  "collisionKind": 1,
   "type": 0,
-  "origin": 4,
+  "origin": 0,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"0762995e-b9ac-45f6-b780-fd1e8d6956f7","path":"sprites/gunner_sprite/gunner_sprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0762995e-b9ac-45f6-b780-fd1e8d6956f7","path":"sprites/gunner_sprite/gunner_sprite.yy",},"LayerId":{"name":"5a2660cc-ddb2-43d1-903f-5131b6f905e2","path":"sprites/gunner_sprite/gunner_sprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"gunner_sprite","path":"sprites/gunner_sprite/gunner_sprite.yy",},"resourceVersion":"1.0","name":"0762995e-b9ac-45f6-b780-fd1e8d6956f7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c537c4b1-f1a7-4855-aa16-4e3b2383ad5d","path":"sprites/Sprite11/Sprite11.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c537c4b1-f1a7-4855-aa16-4e3b2383ad5d","path":"sprites/Sprite11/Sprite11.yy",},"LayerId":{"name":"65332f4a-451b-4109-b6c6-0b2b1e33f153","path":"sprites/Sprite11/Sprite11.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"resourceVersion":"1.0","name":"c537c4b1-f1a7-4855-aa16-4e3b2383ad5d","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"gunner_sprite","path":"sprites/gunner_sprite/gunner_sprite.yy",},
+    "spriteId": {"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"962b7c54-b56c-49fd-8870-eba828c77c84","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0762995e-b9ac-45f6-b780-fd1e8d6956f7","path":"sprites/gunner_sprite/gunner_sprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a2a4a79c-ac66-4d12-8faa-f4b4b0db1059","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c537c4b1-f1a7-4855-aa16-4e3b2383ad5d","path":"sprites/Sprite11/Sprite11.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,25 +54,25 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 16,
-    "yorigin": 16,
+    "xorigin": 0,
+    "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"gunner_sprite","path":"sprites/gunner_sprite/gunner_sprite.yy",},
+    "parent": {"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},
     "resourceVersion": "1.3",
-    "name": "gunner_sprite",
+    "name": "Sprite11",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5a2660cc-ddb2-43d1-903f-5131b6f905e2","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"65332f4a-451b-4109-b6c6-0b2b1e33f153","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "gunner_sprite",
+  "name": "Sprite11",
   "tags": [],
   "resourceType": "GMSprite",
 }
