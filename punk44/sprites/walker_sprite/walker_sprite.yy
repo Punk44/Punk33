@@ -25,6 +25,7 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"2c8e2512-5f47-4a74-96bf-39da3a731b07","path":"sprites/walker_sprite/walker_sprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2c8e2512-5f47-4a74-96bf-39da3a731b07","path":"sprites/walker_sprite/walker_sprite.yy",},"LayerId":{"name":"","path":"",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"2c8e2512-5f47-4a74-96bf-39da3a731b07","path":"sprites/walker_sprite/walker_sprite.yy",},"LayerId":{"name":"664d8ea1-514a-4c87-b888-13cf9b684815","path":"sprites/walker_sprite/walker_sprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"walker_sprite","path":"sprites/walker_sprite/walker_sprite.yy",},"resourceVersion":"1.0","name":"2c8e2512-5f47-4a74-96bf-39da3a731b07","tags":[],"resourceType":"GMSpriteFrame",},
   ],

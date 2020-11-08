@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-with(other){
-	if cooldown < 1{
+if alarm[1] <= 0{
+	with(other){
 		player_hp -= 1;
-		cooldown = 40;
-	}
+		}
+	alarm[1] = 20;
 }
