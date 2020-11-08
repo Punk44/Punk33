@@ -1,11 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-with(other){
-	hp -= 1;
-	alarm[0] = 10;
-	spd = 0.5;
-	
-}
-
-mask_index = -1
+audio_play_sound(grit, 1000, true)
