@@ -4,5 +4,5 @@ if alarm[1] <= 0{
 	with(other){
 		player_hp -= 1;
 		}
-	alarm[1] = 20;
+	alarm[1] = 30;
 }
