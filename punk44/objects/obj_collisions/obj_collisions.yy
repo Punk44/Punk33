@@ -1,13 +1,13 @@
 {
   "spriteId": {
-    "name": "Sprite11",
-    "path": "sprites/Sprite11/Sprite11.yy",
+    "name": "collision_sprite",
+    "path": "sprites/collision_sprite/collision_sprite.yy",
   },
   "solid": true,
   "visible": false,
   "spriteMaskId": {
-    "name": "Sprite11",
-    "path": "sprites/Sprite11/Sprite11.yy",
+    "name": "collision_sprite",
+    "path": "sprites/collision_sprite/collision_sprite.yy",
   },
   "persistent": false,
   "parentObjectId": null,
@@ -36,7 +36,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object6",
+  "name": "obj_collisions",
   "tags": [],
   "resourceType": "GMObject",
 }

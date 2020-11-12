@@ -42,11 +42,11 @@ if (fire)
 	var temp_y =  y+lengthdir_y(48, temp_dir);
 	var start_x = temp_x;
 	var start_y = temp_y;
-	var collision = (position_meeting(temp_x, temp_y, walker) || position_meeting(temp_x, temp_y, gunner) || position_meeting(temp_x, temp_y, Object6));
+	var collision = (position_meeting(temp_x, temp_y, walker) || position_meeting(temp_x, temp_y, gunner) || position_meeting(temp_x, temp_y, obj_collisions));
 	while (!collision && distance_to_point(temp_x, temp_y) < room_width){
 		temp_x += lengthdir_x(4, temp_dir);
 		temp_y += lengthdir_y(4, temp_dir);
-		collision = (position_meeting(temp_x, temp_y, walker) || position_meeting(temp_x, temp_y, gunner) || position_meeting(temp_x, temp_y, Object6));
+		collision = (position_meeting(temp_x, temp_y, walker) || position_meeting(temp_x, temp_y, gunner) || position_meeting(temp_x, temp_y, obj_collisions));
 	}
 	
 	var shot = instance_create_layer(temp_x, temp_y, "Bullets", bullet);
