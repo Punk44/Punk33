@@ -7,3 +7,4 @@ if enemy_num = 0{
 	with(other){
 		room_goto_next()
 	}}
+
