@@ -4,7 +4,7 @@
 with(other){
 	hp -= 1;
 	alarm[0] = 10;
-	spd = 0.2;
+	spd -= 0.3;
 	
 	//gonna have to delete particles later to avoid memory problems
 	part_emitter_region(global.part_system, global.part_emitter, x-32, x+32, y-32, y+32, ps_shape_ellipse, ps_distr_gaussian);
