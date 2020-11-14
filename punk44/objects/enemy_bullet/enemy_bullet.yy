@@ -23,7 +23,7 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"enemy_bullet","path":"objects/enemy_bullet/enemy_bullet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"player","path":"objects/player/player.yy",},"parent":{"name":"enemy_bullet","path":"objects/enemy_bullet/enemy_bullet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Object6","path":"objects/Object6/Object6.yy",},"parent":{"name":"enemy_bullet","path":"objects/enemy_bullet/enemy_bullet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_collisions","path":"objects/obj_collisions/obj_collisions.yy",},"parent":{"name":"enemy_bullet","path":"objects/enemy_bullet/enemy_bullet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
