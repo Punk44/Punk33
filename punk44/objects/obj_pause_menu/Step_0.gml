@@ -11,7 +11,3 @@ if keyboard_check_pressed(vk_escape) or keyboard_check_pressed(ord("P")) {
 		instance_activate_all();
 	}}
 	
-if mouse_check_button_pressed(mb_left){
-	pause = false
-	instance_activate_all();
-}
