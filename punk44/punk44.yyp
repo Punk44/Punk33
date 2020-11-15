@@ -45,7 +45,6 @@
     {"id":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},"order":11,},
     {"id":{"name":"grit","path":"sounds/grit/grit.yy",},"order":0,},
     {"id":{"name":"e_ammo_pickup","path":"sounds/e_ammo_pickup/e_ammo_pickup.yy",},"order":4,},
-    {"id":{"name":"spr_Empty","path":"sprites/spr_Empty/spr_Empty.yy",},"order":10,},
     {"id":{"name":"Lv_1","path":"rooms/Lv_1/Lv_1.yy",},"order":0,},
   ],
   "Options": [
