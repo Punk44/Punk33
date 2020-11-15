@@ -12,6 +12,7 @@
     {"id":{"name":"background","path":"tilesets/background/background.yy",},"order":0,},
     {"id":{"name":"tutorial","path":"rooms/tutorial/tutorial.yy",},"order":2,},
     {"id":{"name":"blood_sprite","path":"sprites/blood_sprite/blood_sprite.yy",},"order":14,},
+    {"id":{"name":"e_walker_growl","path":"sounds/e_walker_growl/e_walker_growl.yy",},"order":5,},
     {"id":{"name":"Lv_2","path":"rooms/Lv_2/Lv_2.yy",},"order":1,},
     {"id":{"name":"draw_text_outlined","path":"scripts/draw_text_outlined/draw_text_outlined.yy",},"order":0,},
     {"id":{"name":"e_gun_shot","path":"sounds/e_gun_shot/e_gun_shot.yy",},"order":2,},

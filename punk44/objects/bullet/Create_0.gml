@@ -6,3 +6,4 @@
 //speed = 100;
 start_x = player.x;
 start_y = player.y;
+hit_sound = irandom(6);

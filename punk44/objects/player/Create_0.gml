@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-player_hp = 3;
+player_hp = 100;
 player_hp_max = player_hp;
 healthbar_width = 194;
 healthbar_height = 20;
