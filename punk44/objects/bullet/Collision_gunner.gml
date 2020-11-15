@@ -12,5 +12,9 @@ with(other){
 	
 }
 
+if hit_sound == 1 {
+	audio_play_sound(e_walker_growl, 10, false);
+}
+
 audio_play_sound(e_hit_sound, 6, false);
 mask_index = -1;
