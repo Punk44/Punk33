@@ -1,4 +1,4 @@
-/// @description Insert description here
+ /// @description Insert description here
 // You can write your code in this editor
 player_hp = 100;
 player_hp_max = player_hp;

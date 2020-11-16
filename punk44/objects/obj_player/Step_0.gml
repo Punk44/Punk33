@@ -29,7 +29,7 @@ if (fire)
 	//}
 	
 	alarm[0] = shot_delay
-	alarm[2] = 10
+	alarm[2] = 10 
 	walk_speed = 2
 	audio_play_sound(e_gun_shot, 5, false);
 	var temp_dir = direction+random_range(-2, 2);

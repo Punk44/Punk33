@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "gunner_sprite",
-    "path": "sprites/gunner_sprite/gunner_sprite.yy",
+    "name": "spr_gunner",
+    "path": "sprites/spr_gunner/spr_gunner.yy",
   },
   "solid": true,
   "visible": true,

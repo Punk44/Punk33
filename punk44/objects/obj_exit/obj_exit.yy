@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "next_room_sprite",
-    "path": "sprites/next_room_sprite/next_room_sprite.yy",
+    "name": "spr_next_room",
+    "path": "sprites/spr_next_room/spr_next_room.yy",
   },
   "solid": false,
   "visible": false,

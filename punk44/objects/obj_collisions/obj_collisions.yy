@@ -1,13 +1,13 @@
 {
   "spriteId": {
-    "name": "collision_sprite",
-    "path": "sprites/collision_sprite/collision_sprite.yy",
+    "name": "spr_collision",
+    "path": "sprites/spr_collision/spr_collision.yy",
   },
   "solid": true,
   "visible": false,
   "spriteMaskId": {
-    "name": "collision_sprite",
-    "path": "sprites/collision_sprite/collision_sprite.yy",
+    "name": "spr_collision",
+    "path": "sprites/spr_collision/spr_collision.yy",
   },
   "persistent": false,
   "parentObjectId": null,

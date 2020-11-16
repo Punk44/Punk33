@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "loot_box_sprite",
-    "path": "sprites/loot_box_sprite/loot_box_sprite.yy",
+    "name": "spr_loot_box",
+    "path": "sprites/spr_loot_box/spr_loot_box.yy",
   },
   "solid": false,
   "visible": true,

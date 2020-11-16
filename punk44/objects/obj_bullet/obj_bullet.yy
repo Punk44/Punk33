@@ -3,8 +3,8 @@
   "solid": false,
   "visible": true,
   "spriteMaskId": {
-    "name": "bullet_mask",
-    "path": "sprites/bullet_mask/bullet_mask.yy",
+    "name": "spr_bullet_mask",
+    "path": "sprites/spr_bullet_mask/spr_bullet_mask.yy",
   },
   "persistent": false,
   "parentObjectId": null,
