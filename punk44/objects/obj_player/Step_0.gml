@@ -44,7 +44,7 @@ if (fire)
 		collision = (position_meeting(temp_x, temp_y, obj_walker) || position_meeting(temp_x, temp_y, obj_gunner) || position_meeting(temp_x, temp_y, obj_collisions));
 	}
 	
-	var shot = instance_create_layer(temp_x, temp_y, "Bullets", bullet);
+	var shot = instance_create_layer(temp_x, temp_y, "Bullets", obj_bullet);
 	shot.start_x = start_x;
 	shot.start_y = start_y;
 	global.ammo -= 1
