@@ -4,6 +4,7 @@
 with(other){
 	hp -= 20;
 	alarm[0] = 10;
+
 	spd -= 0.1;
 	
 	//gonna have to delete particles later to avoid memory problems
