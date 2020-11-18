@@ -4,11 +4,8 @@
 with(other){
 	hp -= 20;
 	alarm[0] = 10;
-<<<<<<< Temporary merge branch 1
+
 	spd -= 0.1;
-=======
-	spd -= 0.3;
->>>>>>> Temporary merge branch 2
 	
 	//gonna have to delete particles later to avoid memory problems
 	part_emitter_region(global.part_system, global.part_emitter, x-32, x+32, y-32, y+32, ps_shape_ellipse, ps_distr_gaussian);
