@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "aiming_reticle_sprite",
-    "path": "sprites/aiming_reticle_sprite/aiming_reticle_sprite.yy",
+    "name": "spr_aiming_reticle",
+    "path": "sprites/spr_aiming_reticle/spr_aiming_reticle.yy",
   },
   "solid": false,
   "visible": true,
